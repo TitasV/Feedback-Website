@@ -1,5 +1,4 @@
-<?php include 'inc/header.php'; 
-echo 'Hello World!'?>
+<?php include 'inc/header.php'; ?>
 
 <?php
   $name = $email = $body = '';
